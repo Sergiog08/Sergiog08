@@ -8,7 +8,7 @@
 ____
 ## Perfil de Trabajo:
 
-- Analista de datos | Analista BI
+- 📉Analista de datos | 📊Analista BI
 ____
 ## Experiencia:
 
