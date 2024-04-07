@@ -3,7 +3,7 @@
 ## Acerca de mi:
 
 - 👨‍🎓 Soy Ingeniero Industrial con énfasis en Lean Six Sigma.
-- 🔭 Actualmente me dedico al análisis de BI y análisis de datos.
+- 🔭 Actualmente me dedico al análisis BI y análisis de datos.
 - 🌱 Me gusta la ciencia de datos y análisis estadísticos.
 ____
 ## Perfil de Trabajo:
