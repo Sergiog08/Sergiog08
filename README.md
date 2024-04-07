@@ -14,6 +14,6 @@ ____
 
 - Procesos de ETL usando SQL
 - Creacion y modificacion de reportes en Excel, Microsoft report builder y Power BI
-- Analisis de informacion y generacion de insights
+- Analisis de informacion y generacion de insights con python
 
 
