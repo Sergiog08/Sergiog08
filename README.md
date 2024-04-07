@@ -13,8 +13,7 @@ ____
 ## Experiencia:
 
 - Procesos de ETL usando SQL
-- Creacion y modificacion de reportes en Excel y Power BI
+- Creacion y modificacion de reportes en Excel, Microsoft report builder y Power BI
 - Analisis de informacion y generacion de insights
-- 
 
 
