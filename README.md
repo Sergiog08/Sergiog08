@@ -1,16 +1,16 @@
-### Hola, soy Sergio👋
+## Hola, soy Sergio👋
 
-## Acerca de mi:
+### Acerca de mi:
 
 - 👨‍🎓 Soy Ingeniero Industrial con énfasis en Lean Six Sigma.
 - 🔭 Actualmente me dedico al análisis BI y análisis de datos.
 - 🌱 Me gusta la ciencia de datos y análisis estadísticos.
 ____
-## Perfil de Trabajo:
+### Perfil de Trabajo:
 
 - 📊Analista BI | 📉Analista de datos 
 ____
-## Experiencia:
+### Experiencia:
 
 - Procesos de ETL usando SQL
 - Creacion y modificacion de reportes y dashoards en Excel, Microsoft report builder y Power BI
