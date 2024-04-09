@@ -12,8 +12,8 @@ ____
 ____
 ### Experiencia:
 
-- Procesos de ETL usando SQL
-- Creacion y modificacion de reportes y dashoards en Excel, Microsoft report builder y Power BI
-- Analisis de informacion y generacion de insights con python
+- Procesos de ETL usando SQL.
+- Creacion y modificacion de reportes y dashoards en Excel, Microsoft report builder y Power BI.
+- Analisis de informacion y generacion de insights con python.
 
 
